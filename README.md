@@ -6,9 +6,9 @@
   
 - #### Overview
   ***Date Collecting*** We deployed three cameras in the soon-to-be-demolished Shekou old market to capture the bustling crowds on the last day of its operation.</p>
-  ![image](https://user-images.githubusercontent.com/82434538/235477141-e6117feb-7690-4058-a565-47ba75927737.png)\
+  ![image](https://user-images.githubusercontent.com/82434538/235477141-e6117feb-7690-4058-a565-47ba75927737.png)
   ***Data Processing*** The Shekou fishing market is 12km away from the museum where our exhibition is held. How can we make museum visitors feel the same crowdedness as in the market? We utilized the YOLO_V3 algorithm, with only data input modifications but no model changes, for real-time person recognition. Our own algorithm detected the distance between the center point of the person's rectangular box and the distance to the two sides of the booth. The distance data obtained was translated by a stepper motor, allowing museum visitors to feel the crowdedness of the market.</p>
-  ![image](https://user-images.githubusercontent.com/82434538/235477535-5a2b8d89-c204-4125-8930-aa185c5a1a57.png)\
+  ![image](https://user-images.githubusercontent.com/82434538/235477535-5a2b8d89-c204-4125-8930-aa185c5a1a57.png)
 
 - #### YOLO_V3
   ***Date Sample*** One example of the captured video from one of the cameras is presented here, comprising 15 frames.</p>
