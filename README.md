@@ -19,10 +19,10 @@
 - #### Data Transduction
   ***Structure*** We customized a pair of 2m-high steel structures, with appropriate connections in the middle to provide installation positions for the stepper motor, which drives the retraction on both sides. The structures were covered with white silk to simulate the feeling of pedestrian congestion. We achieved a device structure that can visualize data in real-time within a limited cost (£ 3000).</p>
   ![image](https://user-images.githubusercontent.com/82434538/235479883-4d0f4ed7-fcae-4b19-b500-a0f5155aa69e.png)
-  ***Stepper motor*** The PLC(Programmable Logic Controller) provides the stepper motor driver with a sequence of pulse signals to control the motor's motion. The driver then converts the pulse signals into electrical current that drives the stepper motor's coils, causing it to rotate in small, precise increments.The number of pulses sent to the stepper motor driver determines how far the motor rotates, and the frequency of the pulses determines the speed of the motor. By controlling the number and frequency of the pulses, the PLC can precisely control the position and speed of the stepper motor.
+  ***Stepper motor*** The PLC(Programmable Logic Controller) provides the stepper motor driver with a sequence of pulse signals to control the motor's motion. The driver then converts the pulse signals into electrical current that drives the stepper motor's coils, causing it to rotate in small, precise increments.The number of pulses sent to the stepper motor driver determines how far the motor rotates, and the frequency of the pulses determines the speed of the motor. By controlling the number and frequency of the pulses, the PLC can precisely control the position and speed of the stepper motor.</p>
   ![image](https://user-images.githubusercontent.com/82434538/235479942-96834195-273d-47cd-a8a8-a36bd7bb1060.png)
   
 - #### Exhibition！
-  Our exhibition was a great success and this digital memory will permanently preserve the bustling atmosphere of the Shenzhen fishing market, even though it has been demolished. This project has made me realize my strong interest in AI.
+  Our exhibition was a great success and this digital memory will permanently preserve the bustling atmosphere of the Shenzhen fishing market, even though it has been demolished. This project has made me realize my strong interest in AI.</p>
   ![image](https://user-images.githubusercontent.com/82434538/235480028-c2471a38-bb97-4f3e-a1b1-ee377577c096.png)
 
