@@ -10,3 +10,8 @@
   ***Data Processing*** After performing exploratory data analysis (EDA) on different types of POI data, the data is visualized on a single JPG image with a resolution of 8000*8000. Similarly, the HouseHeat data (a measure of the popularity of second-hand houses obtained from a defined company) is also visualized and represented on an 8000*8000 JPG image. These POI and HouseHeat JPG images are then segmented into 225 512*512 images to create a dataset. Our objective is to establish a mapping from the POI images to the HouseHeat images.</p>
   ![image](https://user-images.githubusercontent.com/82434538/235477535-5a2b8d89-c204-4125-8930-aa185c5a1a57.png)
   ***Model Training*** We trained a GAN to learn a mapping between two images stes, also known as an image-to-image translation.</p>
+
+- #### YOLO_V3
+  ***Date*** Collect data from Amap API, Lianjia official website, and ArcGIS using Python.</p>
+  ***Date*** Collect data from Amap API, Lianjia official website, and ArcGIS using Python.</p>
+  ![image](https://user-images.githubusercontent.com/82434538/235478030-e53540ba-2336-4d70-9fdd-f9599f00ebe0.png)
